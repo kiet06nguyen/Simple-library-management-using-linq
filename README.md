@@ -14,11 +14,13 @@ Requirements:
 `An IDE like Visual Studio or VS Code (recommended)`
 
 ## Example in Project
-add students and books
+add new book
 
-display student ID and borrowed books as json
+add reader
 
-display students who have borrowed 3 or more books as json
+register reader for book
+
+display reader and book as json
 
 ## Contribute
 If you want to contribute, feel free to fork this repository and send a pull request.
