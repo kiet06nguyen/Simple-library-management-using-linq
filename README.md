@@ -3,7 +3,8 @@ A simple C# project that demonstrates how to use LINQ and JSON to create a book 
 
 ## Introduction
 This project demonstrates how to use LINQ (Language Integrated Query) and JSON to output to the screen in C#. The project includes examples of querying a list, filtering data, sorting and grouping data in a console application, and converting to JSON.
-![image](https://github.com/user-attachments/assets/3c17c7aa-9e16-46ae-ad03-c982b5ae6be8)
+![image](https://github.com/user-attachments/assets/b4910f05-7de0-4127-ac39-1b0f980614cf)
+
 
 
 ## How to run
