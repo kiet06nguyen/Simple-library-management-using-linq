@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "baitap buoi 7/1.0.0": {
+        "runtime": {
+          "baitap buoi 7.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "baitap buoi 7/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
